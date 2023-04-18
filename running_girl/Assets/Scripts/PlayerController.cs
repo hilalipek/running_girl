@@ -15,7 +15,9 @@ public class PlayerController : MonoBehaviour
     public AudioClip jumpSound;
     public AudioClip crashSound;
     private AudioSource playerAudio;
+    
     // Start is called before the first frame update
+    // first step
     void Start()
     {
         playerRb = GetComponent<Rigidbody>();
