@@ -1,9 +1,9 @@
 # running_girl
-this app is a simple 3d platform game. The girl runs and tries to jump over the obstacles.
+this app is a simple 3d platform game. The girl runs and tries to jump over the obstacles.Sound and video effects are available.
 
 
 
 
 
-https://user-images.githubusercontent.com/112084373/236439252-80c19671-868d-4e19-87d6-380715443903.mp4
+https://user-images.githubusercontent.com/112084373/236440642-d2671850-c697-4c20-8952-2bd315c69f78.mp4
 
